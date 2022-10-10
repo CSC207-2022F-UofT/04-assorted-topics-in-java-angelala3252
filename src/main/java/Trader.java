@@ -43,7 +43,7 @@ public class Trader<T> {
     }
 
 
-    public void addToWishList(T obj) {
+    public void addToWishlist(T obj) {
         this.wishlist.add(obj);
     }
 
